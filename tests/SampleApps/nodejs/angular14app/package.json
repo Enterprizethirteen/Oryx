@@ -24,13 +24,13 @@
     "semver": "^7.5.2",
     "terser": "^5.14.2",
     "tslib": "^2.3.0",
-    "webpack": "^5.94.0",
+    "webpack": "^5.105.0",
     "webpack-dev-middleware": "^5.3.4",
     "zone.js": "~0.11.4"
   },
   "devDependencies": {
-    "@angular-devkit/build-angular": "^14.0.0",
-    "@angular/cli": "~14.0.0",
+    "@angular-devkit/build-angular": "^21.1.4",
+    "@angular/cli": "~21.1.4",
     "@angular/compiler-cli": "^14.0.0",
     "@types/jasmine": "~4.0.0",
     "jasmine-core": "~4.1.0",
