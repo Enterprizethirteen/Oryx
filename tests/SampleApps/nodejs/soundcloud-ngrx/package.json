@@ -98,7 +98,7 @@
     "tslib": "~1.7.1",
     "tslint": "~5.4.3",
     "typescript": "~2.3.4",
-    "webpack": "3.0.0",
+    "webpack": "5.105.3",
     "webpack-dev-server": "2.5.0",
     "webpack-md5-hash": "~0.0.5",
     "zone.js": "~0.8.12"
