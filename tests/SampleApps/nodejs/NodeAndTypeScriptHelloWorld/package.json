@@ -16,7 +16,7 @@
   "dependencies": {
     "@types/node": "7.0.22",
     "ajv": "^6.12.3",
-    "express": "4.15.3",
+    "express": "4.22.1",
     "nodemon": "1.11.0",
     "shelljs": "^0.8.5"
   },
