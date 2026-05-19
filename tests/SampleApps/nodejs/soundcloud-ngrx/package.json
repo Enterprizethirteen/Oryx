@@ -55,7 +55,7 @@
     "@angular/http": "4.2.4",
     "@angular/platform-browser": "4.2.4",
     "@angular/platform-browser-dynamic": "4.2.4",
-    "@angular/platform-server": "4.2.4",
+    "@angular/platform-server": "19.2.22",
     "@angular/router": "4.2.4",
     "@ngrx/core": "1.2.0",
     "@ngrx/effects": "2.0.3",
@@ -99,7 +99,7 @@
     "tslint": "~5.4.3",
     "typescript": "~2.3.4",
     "webpack": "3.0.0",
-    "webpack-dev-server": "2.5.0",
+    "webpack-dev-server": "5.2.4",
     "webpack-md5-hash": "~0.0.5",
     "zone.js": "~0.8.12"
   }
